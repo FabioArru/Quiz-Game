@@ -1,0 +1,52 @@
+[
+    {
+        "question" : "How many NBA championships did Michael Jordan wins?",
+        "answers" : ["3", "6", "5", "4"],
+        "correct_answer" : "6"
+    },
+    {
+        "question" : "Who is the NBA top scorer of alla Time?",
+        "answers" : ["Michael Jordan", "LeBron James", "Kareem Abdul-Jabbar", "Wilt Chamberlain"],
+        "correct_answer" : "Kareem Abdul-Jabbar"
+    },
+    {
+        "question" : "Who is the most winning NBA championship coach?",
+        "answers" : ["Gregg Popovich", "Pat Riley", "Phil Jackson", "Red Auerbach"],
+        "correct_answer" : "Phil Jackson"
+    },
+    {
+        "question" : "Wich player scored the most points in a single NBA playoff game?",
+        "answers" : ["Elgin Baylor", "Michael Jordan", "Donovan Mitchell", "Kobe Bryant"],
+        "correct_answer" : "Michael Jordan"
+    },
+    {
+        "question" : "Wich player sets rebounds record in a single NBA game?",
+        "answers" : ["Wilt Chamberlain", "Dennis Rodman", "Bill Russell", "Shaquille O'Neal"],
+        "correct_answer" : "Wilt Chamberlain"
+    },
+    {
+        "question" : "Wich NBA team have the highest win-loss record percentage?",
+        "answers" : ["San Antonio Spurs", "Golden State Warriors", "Los Angeles Lakers", "Boston Celtics"],
+        "correct_answer" : "San Antonio Spurs"
+    },
+    {
+        "question" : "Wich NBA player had score the most 3-point field goals in a game?",
+        "answers" : ["Stephen Curry", "Reggie Miller", "Ray Allen", "Klay Thompson"],
+        "correct_answer" : "Klay Thompson"
+    },
+    {
+        "question" : "Who is the all time NBA blocks leader?",
+        "answers" : ["Kareem Abdul-Jabbar", "Hakeem Olajuwon", "Tim Duncan", "Dikembe Mutombo"],
+        "correct_answer" : "Hakeem Olajuwon"
+    },
+    {
+        "question" : "Who is the all time Nba assists leader?",
+        "answers" : ["Jason Kidd", "Steve Nash", "John Stockton", "Chris Paul"],
+        "correct_answer" : "John Stockton"
+    },
+    {
+        "question" : "Who is the nba coach that won the most nba games?",
+        "answers" : ["Gregg Popovich", "Don Nelson", "Phil Jackson", "Jerry Sloan"],
+        "correct_answer" : "Don Nelson"
+    }
+]
